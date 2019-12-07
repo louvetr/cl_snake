@@ -1,4 +1,4 @@
-# cl_columns
+# cl_snake
 Classic snake game like I used to play on old Nokia phones.
 It runs under a linux terminal by using libncurses.
 I implememted a double link list data structure in order to track snake body parts.
